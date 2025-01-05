@@ -2,7 +2,7 @@
 
 Um simples gerador de QR Code usando HTML, CSS e JavaScript. Este projeto permite que o usuário insira um link e gere um QR Code que pode ser visualizado e baixado.
 
-Link: https://profadevairvitorio.github.io/meu-qr-code/
+Link: https://profadevairvitorio.github.io/meu-qr-code/ 
 
 ![img.png](assets/img.png)
 
